@@ -1,0 +1,10 @@
+console.log("Cocinar una torta");
+console.log("Dirigirse desde su domicilio hasta el supermercado");
+console.log("Crear un posteo en facebook");
+console.log("llamar a María");
+console.log("doblar la ropa");
+console.log("lavar el auto");
+console.log("comprar remera");
+console.log("ir a la peluqueria");
+console.log("ir al trabajo");
+console.log("comprar regalo de cumpleanios");
